@@ -1,5 +1,5 @@
 # djangoVideoChat
-### This is a django based web application for video chat among multiple users. This application uses WebRTC ( Agora sdk : https://www.agora.io/) to enable real-time voice and video interaction inside our django application.
+### This is a django based web application for video chat among multiple users. This application uses WebRTC (Agora sdk) to enable real-time voice and video interaction.
 ## Initial setup and download
 * Run the following command to install mysqlclient since this project uses mysql database<br>
  ```$ pip install mysqlclient```
